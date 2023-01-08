@@ -7,6 +7,7 @@ https://www.youtube.com/watch?v=6pbB37nFUZw | Black Box Testing Example - Georgi
 https://www.youtube.com/watch?v=KIAkoae6_jE | White Box Testing Example - Georgia Tech - Software Development Process - YouTube
 https://www.youtube.com/watch?v=iWtxEDE1IR4 | What is Unit Testing, Why We Use It, and Sample Test Cases - YouTube
 https://www.techinterviewhandbook.org/coding-interview-prep/#study-and-practice | Coding interviews: Everything you need to prepare | Tech Interview Handbook
+
 chrome-extension://iaiomicjabeggjcfkbimgmglanimpnae/replaced/index.html?state=redirect&title=Building%20a%20Url%20Shortener%20With%20Node.Js&url=https%3A%2F%2Freflectoring.io%2Fnode-url-shortener%2F&favIconUrl=https%3A%2F%2Freflectoring.io%2Fimages%2Ffavicon\_hu1f1279ae3ed53647d9a8907cf7c47ae6\_3248\_32x0\_resize\_box\_3.png&theme=light | Building a Url Shortener With Node.Js
 chrome-extension://iaiomicjabeggjcfkbimgmglanimpnae/replaced/index.html?state=redirect&title=Dive%20Into%20JavaScript%3A%20Advanced%20Concepts%20%7C%20Bits%20and%20Pieces&url=https%3A%2F%2Fblog.bitsrc.io%2Fjavascript-under-the-hood-advanced-concepts-developers-should-know-a89ddbb11228&favIconUrl=https%3A%2F%2Fmiro.medium.com%2Ffit%2Fc%2F256%2F256%2F1*ds6iXWSFwycgEjbhZiCB4A.png&theme=light | Dive Into JavaScript: Advanced Concepts | Bits and Pieces
 chrome-extension://iaiomicjabeggjcfkbimgmglanimpnae/replaced/index.html?state=redirect&title=URL%20Shortener%20in%20Python%20-%20A%20Beginner%27s%20Guide%20-%20AskPython&url=https%3A%2F%2Fwww.askpython.com%2Fpython%2Fexamples%2Furl-shortener&favIconUrl=https%3A%2F%2Fwww.askpython.com%2Fwp-content%2Fuploads%2F2019%2F12%2Fcropped-favicon-1-32x32.png&theme=light | URL Shortener in Python - A Beginner's Guide - AskPython
@@ -20,6 +21,7 @@ chrome-extension://iaiomicjabeggjcfkbimgmglanimpnae/replaced/index.html?state=re
 chrome-extension://iaiomicjabeggjcfkbimgmglanimpnae/replaced/index.html?state=redirect&title=2022%20One%20Book%2C%20One%20San%20Diego%20Selections%20%7C%20Public%20Library%20%7C%20City%20of%20San%20Diego%20Official%20Website&url=https%3A%2F%2Fwww.sandiego.gov%2Fpublic-library%2Fonebook&favIconUrl=https%3A%2F%2Fwww.sandiego.gov%2Fsites%2Fdefault%2Ffiles%2Ffavicon.ico&theme=light | 2022 One Book, One San Diego Selections | Public Library | City of San Diego Official Website
 chrome-extension://iaiomicjabeggjcfkbimgmglanimpnae/replaced/index.html?state=redirect&title=How%20to%20Create%20a%20Dynamic%20Navigation%20Bar%20using%20ReactJS&url=https%3A%2F%2Fdevdojo.com%2Ftiwingnadia%2Fhow-to-create-a-dynamic-navigation-bar-using-reactjs&favIconUrl=https%3A%2F%2Fcdn.devdojo.com%2Fimages%2Fjune2022%2Ffavicon-red.png&theme=light | How to Create a Dynamic Navigation Bar using ReactJS
 chrome-extension://iaiomicjabeggjcfkbimgmglanimpnae/replaced/index.html?state=redirect&title=Upcoming%20Events%20in%20San%20Diego%20%7C%20sandiegomagazine.com&url=https%3A%2F%2Fwww.sandiegomagazine.com%2Fcalendar%2F&favIconUrl=https%3A%2F%2Fwww.sandiegomagazine.com%2Fcontent%2Ftncms%2Fsite%2Ficon.ico&theme=light | Upcoming Events in San Diego | sandiegomagazine.com
+
 https://www.drdaniellehiestand.com/ | Danielle Hiestand, PsyD, LMFT, EMDR and Eating Disorder therapy in San Diego
 https://silvafamilytherapy.com/contact-us | Contact Us
 http://www.sandiegotherapynow.com/contact/ | Contact - Change Now! | Change Now!
@@ -41,6 +43,7 @@ https://java-programming.mooc.fi/part-1/1-starting-programming | Getting started
 https://applied-language-technology.mooc.fi/html/index.html | Applied Language Technology
 https://tmc.mooc.fi/org/mooc/courses/1039 | https://tmc.mooc.fi/org/mooc/courses/1039
 chrome-extension://jlgkpaicikihijadgifklkbpdajbkhjo/options.html#/ | Settings
+
 [https://applied-language-technology.mooc.fi/html/notebooks/part\_ii/06\_managing_data.html](https://applied-language-technology.mooc.fi/html/notebooks/part_ii/06_managing_data.html) | Managing textual data using pandas
 [https://www.selenium.dev/documentation/webdriver/getting\_started/first\_script/](https://www.selenium.dev/documentation/webdriver/getting_started/first_script/) | Write your first Selenium script | Selenium
 https://www.pluralsight.com/guides/guide-scraping-dynamic-web-pages-python-selenium | Dynamic Web Scraping with Python and Selenium | Pluralsight
@@ -52,6 +55,7 @@ https://www.youtube.com/watch?v=X34ZmkeZDos | Why Microsoft Word is the best IDE
 https://www.youtube.com/watch?v=OFWOzENwX3M | Troy - Beach Battle - Achilles \[1080p HD Blu-Ray\] - YouTube
 https://www.youtube.com/watch?v=_z5UKystdZg | Troy (Achilles Vs Boagrius) 4K - YouTube
 https://www.youtube.com/watch?v=HEfxEVVAHGc | THE ABSOLUTE BEST OF DAEMON TARGARYEN - YouTube
+
 https://dev.to/gregpetropoulos/render-deployment-free-tier-of-mern-app-52mk | Render Deployment (free tier) of MERN App - DEV Community 👩‍💻👨‍💻
 [https://applied-language-technology.mooc.fi/html/notebooks/part\_ii/01\_basic\_text\_processing.html](https://applied-language-technology.mooc.fi/html/notebooks/part_ii/01_basic_text_processing.html) | Manipulating text using Python
 https://learngitbranching.js.org/ | Learn Git Branching
@@ -61,6 +65,7 @@ https://www.google.com/search?q=react+tutorial&oq=REACT+tutorial&aqs=chrome.0.0i
 https://dev.to/gregpetropoulos/render-deployment-free-tier-of-mern-app-52mk | Render Deployment (free tier) of MERN App - DEV Community 👩‍💻👨‍💻
 [https://applied-language-technology.mooc.fi/html/notebooks/part\_ii/01\_basic\_text\_processing.html](https://applied-language-technology.mooc.fi/html/notebooks/part_ii/01_basic_text_processing.html) | Manipulating text using Python
 https://learngitbranching.js.org/ | Learn Git Branching
+
 https://www.softwaretestingmaterial.com/ | Software Testing Material - Free Software Testing & Development Material
 https://www.softwaretestingmaterial.com/manual-testing-tutorial/ | Manual Testing Tutorial - Complete Guide | Software Testing Tutorial
 https://www.youtube.com/watch?v=Jv2uxzhPFl4 | Test-Driven Development // Fun TDD Introduction with JavaScript - YouTube
@@ -231,4 +236,3 @@ https://triplebyte.com/candidates/challenges | Triplebyte: Engineer Job Search, 
 https://initialcommit.com/blog/zen-of-python | 7 Key Takeaways from the Zen of Python
 https://examples.javacodegeeks.com/desktop-java/swing/create-gui-java/ | How to Create GUI in JAVA - Examples Java Code Geeks - 2022
 https://www.javatpoint.com/java-swing | Java Swing Tutorial - javatpoint
-
