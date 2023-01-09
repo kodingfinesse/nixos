@@ -1,7 +1,20 @@
-https://www.pdfdrive.com/the-complete-beginners-guide-to-react-e137792355.html | The Complete Beginner's Guide to React by Courtney Williams - PDF Drive
-https://www.muscleandstrength.com/workouts/3-day-full-body-dumbbell-workout | Dumbbell Only Workout: 3 Day Full Body Dumbbell Workout
-https://www.softwaretestingmaterial.com/ | Software Testing Material - Free Software Testing & Development Material
-https://www.softwaretestingmaterial.com/manual-testing-tutorial/ | Manual Testing Tutorial - Complete Guide | Software Testing Tutorial
+https://jscomplete.com/playground | Playground for JavaScript and React.js :: jsComplete
+https://awstip.com/mern-stack-for-web-development-72ff226f45ec | MERN stack for Web Development. What is MERN? | by GavinDmello | Dec, 2022 | AWS Tip
+https://richstone.io/train-your-developer-memory/ | Train Your Developer Memory
+https://www.reddit.com/r/NixOS/comments/knjlow/combining_btrfs_or_zfs_snapshots_with_nix/ | (15) Combining BTRFS or ZFS snapshots with Nix? : NixOS
+https://search.nixos.org/packages?channel=22.11&show=qalculate-qt&from=0&size=50&sort=relevance&type=packages&query=qalculate | NixOS Search - Packages
+https://initialcommit.com/blog/usestate-useeffect-hooks-react#:~:text=The%20useState%20hook%20is%20used,re%2Drendering%2C%20and%20unmounting. | A Guide to Using the useState and useEffect Hooks in React
+https://initialcommit.com/store/coding-essentials-guidebook-for-developers | Coding Essentials Guidebook for Developers
+https://jscomplete.com/playground/arrow-functions | Playground for JavaScript and React.js :: jsComplete
+
+https://ironeko.com/posts/next-js-vs-create-react-app-your-choice-going-into-2023 | Next.js VS Create React App: Your choice going into 2023 - Ironeko
+https://www.freecodecamp.org/news/javascript-skills-you-need-for-react-practical-examples/ | The JavaScript Skills You Need For React (+ Practical Examples)
+https://blog.loginradius.com/engineering/react-context-api/ | React Context API: What is it and How it works? | LoginRadius Blog
+https://react-query-v3.tanstack.com/ | React Query - Hooks for fetching, caching and updating asynchronous data in React
+https://medium.com/swlh/getting-started-with-usequery-react-query-9ea181c3dd47 | Getting Started With useQuery (React Query) | by Osusara Kammalawatta | The Startup | Medium
+https://nextjs.org/docs/basic-features/layouts | Basic Features: Layouts | Next.js
+http://localhost:3000/ | Create Next App
+
 https://www.youtube.com/watch?v=Jv2uxzhPFl4 | Test-Driven Development // Fun TDD Introduction with JavaScript - YouTube
 https://www.youtube.com/watch?v=6pbB37nFUZw | Black Box Testing Example - Georgia Tech - Software Development Process - YouTube
 https://www.youtube.com/watch?v=KIAkoae6_jE | White Box Testing Example - Georgia Tech - Software Development Process - YouTube
@@ -15,7 +28,6 @@ chrome-extension://iaiomicjabeggjcfkbimgmglanimpnae/replaced/index.html?state=re
 https://blog.openreplay.com/a-complete-guide-to-nextjs-plus-mongodb/#setting-up-a-nextjs-app | A complete guide to Next.js plus MongoDB
 chrome-extension://iaiomicjabeggjcfkbimgmglanimpnae/replaced/index.html?state=redirect&title=How%20to%20Create%20a%20Telegram%20Bot%20Using%20Python%20%E2%80%94%20Making%20%24300%20Per%20Month%20%7C%20by%20Ioana%20Mircea%20%7C%20ILLUMINATION%20%7C%20Medium&url=https%3A%2F%2Fmedium.com%2Fillumination%2Fhow-to-create-a-telegram-bot-using-python-making-300-per-month-cf80d0693bb5&favIconUrl=https%3A%2F%2Fmiro.medium.com%2F1*m-R_BkNf1Qjr1YbyOIJY2w.png&theme=light | How to Create a Telegram Bot Using Python — Making $300 Per Month | by Ioana Mircea | ILLUMINATION | Medium
 chrome-extension://iaiomicjabeggjcfkbimgmglanimpnae/replaced/index.html?state=redirect&title=Build%20a%20Data%20Science%20Business.%20At%20some%20point%20you%20have%20dedicated%E2%80%A6%20%7C%20by%20Data%20Scientist%20Dad%20%7C%20Medium&url=https%3A%2F%2Fdatascientistdad.medium.com%2Fbuild-a-data-science-business-a51903876810&favIconUrl=https%3A%2F%2Fmiro.medium.com%2F1*m-R_BkNf1Qjr1YbyOIJY2w.png&theme=light | Build a Data Science Business. At some point you have dedicated… | by Data Scientist Dad | Medium
-chrome-extension://iaiomicjabeggjcfkbimgmglanimpnae/replaced/index.html?state=redirect&title=Earn%20%241000s%20Web%20Scraping%20with%20Python%20%7C%20by%20Yancy%20Dennis%20%7C%20CodeX%20%7C%20Medium&url=https%3A%2F%2Fmedium.com%2Fcodex%2Fearn-1000s-web-scraping-with-python-377c3e16dbde&favIconUrl=https%3A%2F%2Fmiro.medium.com%2F1*m-R_BkNf1Qjr1YbyOIJY2w.png&theme=light | Earn $1000s Web Scraping with Python | by Yancy Dennis | CodeX | Medium
 chrome-extension://iaiomicjabeggjcfkbimgmglanimpnae/replaced/index.html?state=redirect&title=Make%20Money%20Selling%20Your%20Python%20Applications%20%E2%80%93%20Be%20A%20Python%20Dev&url=https%3A%2F%2Fbeapython.dev%2F2020%2F08%2F24%2Fmake-money-selling-your-python-applications%2F&favIconUrl=https%3A%2F%2Fbeapythondev.files.wordpress.com%2F2020%2F03%2Fcropped-beapythondev.png%3Fw%3D32&theme=light | Make Money Selling Your Python Applications – Be A Python Dev
 chrome-extension://iaiomicjabeggjcfkbimgmglanimpnae/replaced/index.html?state=redirect&title=Simple%204-Part%20Framework%20for%20Landing%20Technical%20Side%20Gigs%20(Free%20Training)&url=https%3A%2F%2Flearntocodewith.me%2Fsidegigtraining%2F&favIconUrl=https%3A%2F%2Flearntocodewith.me%2Ffavicon.ico&theme=light | Simple 4-Part Framework for Landing Technical Side Gigs (Free Training)
 chrome-extension://iaiomicjabeggjcfkbimgmglanimpnae/replaced/index.html?state=redirect&title=2022%20One%20Book%2C%20One%20San%20Diego%20Selections%20%7C%20Public%20Library%20%7C%20City%20of%20San%20Diego%20Official%20Website&url=https%3A%2F%2Fwww.sandiego.gov%2Fpublic-library%2Fonebook&favIconUrl=https%3A%2F%2Fwww.sandiego.gov%2Fsites%2Fdefault%2Ffiles%2Ffavicon.ico&theme=light | 2022 One Book, One San Diego Selections | Public Library | City of San Diego Official Website
